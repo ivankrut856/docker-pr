@@ -1,3 +1,0 @@
-FROM python:3
-
-ENTRYPOINT ["/working-dir/run_server.sh"]
